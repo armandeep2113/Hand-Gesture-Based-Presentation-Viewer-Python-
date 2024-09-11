@@ -3,7 +3,9 @@ Developed a hands-free presentation system using cvzone, mediapipe, and opencv-p
 
 
 # Various gestures
+# WORKING (VIDEO)
 
+https://github.com/user-attachments/assets/077a3347-4523-410f-8075-4da63da30e7d
 # gesture 1: Thumb represent go back
 
 ![pre](https://github.com/user-attachments/assets/f81e9ea2-d438-4e23-9480-c16379f0ba38)
