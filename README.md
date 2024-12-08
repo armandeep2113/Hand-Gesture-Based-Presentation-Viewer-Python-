@@ -18,11 +18,11 @@ https://github.com/user-attachments/assets/077a3347-4523-410f-8075-4da63da30e7d
 
 ![write](https://github.com/user-attachments/assets/ee6a3685-6f50-4f09-9ec7-ed84bdcf5c85)
 
-# gesture 4: 3 fingers to erase
+# gesture 4: 3 fingers to undo
 
 ![thumb](https://github.com/user-attachments/assets/807bc559-ea2d-4b5b-9022-23fcec39241b)
 
-# gesture 5: 2 fingers to pointer
+# gesture 5: 2 fingers used as pointer
 
 ![pointer](https://github.com/user-attachments/assets/cce2ab0d-b53f-48d9-9f01-877d94aeab53)
 
